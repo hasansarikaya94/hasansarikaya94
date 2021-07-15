@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasansarikaya94
 - 👀 I’m interested in php and python devolepment
-- 🌱 I’m currently learning Python and architecture 
+- 🌱 I’m currently learning Python and blockchain architecture 
 
 
 <!---
