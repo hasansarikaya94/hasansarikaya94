@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasansarikaya94
-- 👀 I’m interested in bla bla bla  devolepment
+- 👀 I’m infrastructure and devops developer
 - 🌱 I’m currently learning to live.
 
 
