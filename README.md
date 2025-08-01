@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hasansarikaya94
 - 👀 I’m infrastructure and devops developer
-- 🌱 I’m currently learning to live.
 
 
 <!---
